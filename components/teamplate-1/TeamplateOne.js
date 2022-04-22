@@ -52,6 +52,7 @@ const TeamplateOne = () => {
       <Projects data={domainDataProvider} />
       <PageDivieder />
       <ContacMe />
+      
     </Box>
   );
 };

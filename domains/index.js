@@ -12,7 +12,7 @@ export const domains = {
       heightlight: "#444",
     }
   },
-  "127.0.0.1": {
+  "templates-omega.vercel.app": {
     template: <TeamplateOne />,
     icons: "",
     colors: {
